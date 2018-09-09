@@ -13,7 +13,7 @@ Drac is a free, open-source, portable card game library that uses [SDL](http://l
 
 ## Screenshots
 
-<img src="https://cdn.rawgit.com/ricoz/drac/ed5f934b/screenshots/1.gif" alt="Klondike Setup" width="400"> <img src="https://cdn.rawgit.com/ricoz/drac/ed5f934b/screenshots/2.gif" alt="Win Animation" width="400">
+<img src="screenshots/1.gif" alt="Klondike Setup" width="400"> <img src="screenshots/2.gif" alt="Win Animation" width="400">
 
 ## Credits
 
